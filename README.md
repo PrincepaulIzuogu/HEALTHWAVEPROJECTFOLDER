@@ -8,6 +8,18 @@ On the functionality side, the system integrates PHPMailer for email confirmatio
 
 Moreover, the system’s interface is carefully designed to ensure user-friendliness. All static pages are efficiently organized within a navigation bar on the homepage. This design not only simplifies the homepage layout but also provides streamlined access to various sections without overwhelming the user.
 
+
+![Screenshot 2024-01-27 152221](https://github.com/PrincepaulIzuogu/HEALTHWAVEPROJECTFOLDER/assets/123191250/5c359e0b-f27f-4c9e-83b8-d277f73f2a65)
+
+
+![WhatsApp Image 2024-01-13 at 06 12 07_b5967589](https://github.com/PrincepaulIzuogu/HEALTHWAVEPROJECTFOLDER/assets/123191250/ad71331a-d97e-4d48-a129-8a2e1fd13716)
+
+![WhatsApp Image 2024-01-13 at 06 11 32_3ab550eb](https://github.com/PrincepaulIzuogu/HEALTHWAVEPROJECTFOLDER/assets/123191250/52e09319-e33a-49b5-940c-9f3856b4f50e)
+
+
+![WhatsApp Image 2024-01-13 at 06 11 22_aa2990bf](https://github.com/PrincepaulIzuogu/HEALTHWAVEPROJECTFOLDER/assets/123191250/a2ca05b2-1d77-4757-bae6-069e84ec29a0)
+
+
 ## 2.2 Technical Architecture
 
 **Fig.1. Architectural Overview of the HealthWave EHR System, illustrating the integration between the Frontend, Backend, and Database components.**
